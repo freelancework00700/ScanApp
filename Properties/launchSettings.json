@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ScanApp": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\downloads-3-03-2025\\bible-chat"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

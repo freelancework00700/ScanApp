@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\filescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\filescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\models\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:models\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\scanapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:scanapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\data\\scanapp.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:data\\scanapp.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\platform\\unixplatformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\platform\\unixplatformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\platform\\windowsplatformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\platform\\windowsplatformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\logs\\scanapp.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:logs\\scanapp.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\hashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\hashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\scanapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:scanapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\interfaces\\ihashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\interfaces\\ihashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\interfaces\\ifilescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\interfaces\\ifilescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\infrastructure\\fileloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:infrastructure\\fileloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\filesysteminspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\filesysteminspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\infrastructure\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:infrastructure\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\models\\scanresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:models\\scanresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\infrastructure\\fileloggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:infrastructure\\fileloggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\models\\filehashes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:models\\filehashes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\platform\\platformconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\platform\\platformconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\interfaces\\ifilelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\interfaces\\ifilelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\interfaces\\iplatformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\interfaces\\iplatformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|g:\\raghu-pc\\asp.netcore\\consoletest\\scanapp\\services\\interfaces\\ifilesysteminspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA87681F-4B79-475E-8A8E-EA7BB7E2FA48}|ScanApp.csproj|solutionrelative:services\\interfaces\\ifilesysteminspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:24:39.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:35:16.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnixPlatformService.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Platform\\UnixPlatformService.cs",
+              "RelativeDocumentMoniker": "Services\\Platform\\UnixPlatformService.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Platform\\UnixPlatformService.cs",
+              "RelativeToolTip": "Services\\Platform\\UnixPlatformService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:30:30.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "scanapp.log",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Logs\\scanapp.log",
+              "RelativeDocumentMoniker": "Logs\\scanapp.log",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Logs\\scanapp.log",
+              "RelativeToolTip": "Logs\\scanapp.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-04T08:46:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "scanapp.db",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Data\\scanapp.db",
+              "RelativeDocumentMoniker": "Data\\scanapp.db",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Data\\scanapp.db",
+              "RelativeToolTip": "Data\\scanapp.db",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-04T05:57:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowsPlatformService.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Platform\\WindowsPlatformService.cs",
+              "RelativeDocumentMoniker": "Services\\Platform\\WindowsPlatformService.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Platform\\WindowsPlatformService.cs",
+              "RelativeToolTip": "Services\\Platform\\WindowsPlatformService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:34:03.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScanApp.csproj",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\ScanApp.csproj",
+              "RelativeDocumentMoniker": "ScanApp.csproj",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\ScanApp.csproj",
+              "RelativeToolTip": "ScanApp.csproj",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T04:41:21.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileScanner.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\FileScanner.cs",
+              "RelativeDocumentMoniker": "Services\\FileScanner.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\FileScanner.cs",
+              "RelativeToolTip": "Services\\FileScanner.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:27:28.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileRecord.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Models\\FileRecord.cs",
+              "RelativeDocumentMoniker": "Models\\FileRecord.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Models\\FileRecord.cs",
+              "RelativeToolTip": "Models\\FileRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:52:07.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDatabaseService.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IDatabaseService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:45:01.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileLoggerProvider.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Infrastructure\\FileLoggerProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\FileLoggerProvider.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Infrastructure\\FileLoggerProvider.cs",
+              "RelativeToolTip": "Infrastructure\\FileLoggerProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:01:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HashProvider.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\HashProvider.cs",
+              "RelativeDocumentMoniker": "Services\\HashProvider.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\HashProvider.cs",
+              "RelativeToolTip": "Services\\HashProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:47:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IHashProvider.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IHashProvider.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IHashProvider.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IHashProvider.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IHashProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:38:19.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFileScanner.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IFileScanner.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFileScanner.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IFileScanner.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFileScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:45:30.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileSystemInspector.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\FileSystemInspector.cs",
+              "RelativeDocumentMoniker": "Services\\FileSystemInspector.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\FileSystemInspector.cs",
+              "RelativeToolTip": "Services\\FileSystemInspector.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:46:27.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScanApp",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\ScanApp.csproj",
+              "RelativeDocumentMoniker": "ScanApp.csproj",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\ScanApp.csproj",
+              "RelativeToolTip": "ScanApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T05:26:22.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AgIAADUBAAAAAAAAAAAewEIBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-04T05:38:54.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScanResult.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Models\\ScanResult.cs",
+              "RelativeDocumentMoniker": "Models\\ScanResult.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Models\\ScanResult.cs",
+              "RelativeToolTip": "Models\\ScanResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:51:51.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Infrastructure\\FileLogger.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\FileLogger.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Infrastructure\\FileLogger.cs",
+              "RelativeToolTip": "Infrastructure\\FileLogger.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvysAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:57:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileLoggerExtensions.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Infrastructure\\FileLoggerExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\FileLoggerExtensions.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Infrastructure\\FileLoggerExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\FileLoggerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:00:38.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFileLogger.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IFileLogger.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFileLogger.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IFileLogger.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:46:02.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileHashes.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Models\\FileHashes.cs",
+              "RelativeDocumentMoniker": "Models\\FileHashes.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Models\\FileHashes.cs",
+              "RelativeToolTip": "Models\\FileHashes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:41:05.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlatformConfigurator.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Platform\\PlatformConfigurator.cs",
+              "RelativeDocumentMoniker": "Services\\Platform\\PlatformConfigurator.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Platform\\PlatformConfigurator.cs",
+              "RelativeToolTip": "Services\\Platform\\PlatformConfigurator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:38:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPlatformService.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IPlatformService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPlatformService.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IPlatformService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPlatformService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:44:30.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T05:25:21.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IFileSystemInspector.cs",
+              "DocumentMoniker": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IFileSystemInspector.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFileSystemInspector.cs",
+              "ToolTip": "G:\\Raghu-PC\\ASP.NETCore\\ConsoleTest\\ScanApp\\Services\\Interfaces\\IFileSystemInspector.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFileSystemInspector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:37:49.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
